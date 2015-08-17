@@ -1,0 +1,8 @@
+[01-Aug-2015 00:52:14 America/Sao_Paulo] PHP Warning:  require_once(Config.php): failed to open stream: No such file or directory in /home/breuscom/public_html/erp/controllers/testador.php on line 9
+[01-Aug-2015 00:52:14 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required 'Config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/breuscom/public_html/erp/controllers/testador.php on line 9
+[01-Aug-2015 00:52:31 America/Sao_Paulo] PHP Warning:  require_once(Config.php): failed to open stream: No such file or directory in /home/breuscom/public_html/erp/controllers/testador.php on line 9
+[01-Aug-2015 00:52:31 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required 'Config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/breuscom/public_html/erp/controllers/testador.php on line 9
+[01-Aug-2015 00:52:35 America/Sao_Paulo] PHP Warning:  require_once(Config.php): failed to open stream: No such file or directory in /home/breuscom/public_html/erp/controllers/testador.php on line 9
+[01-Aug-2015 00:52:35 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required 'Config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/breuscom/public_html/erp/controllers/testador.php on line 9
+[01-Aug-2015 00:52:37 America/Sao_Paulo] PHP Warning:  require_once(Config.php): failed to open stream: No such file or directory in /home/breuscom/public_html/erp/controllers/testador.php on line 9
+[01-Aug-2015 00:52:37 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required 'Config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/breuscom/public_html/erp/controllers/testador.php on line 9
